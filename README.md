@@ -1,6 +1,6 @@
 # Enterprise Observability Strategy
 
-Welcome to the Observability Architect Strategy repository. This repo outlines a scalable, vendor-neutral observability framework designed for cloud-native and hybrid environments. It includes instrumentation guides, alerting strategies, KPI dashboards, and a roadmap for enterprise adoption.
+This repository outlines a scalable, vendor-neutral observability framework designed for cloud-native and hybrid environments. It includes instrumentation guides, alerting strategies, KPI dashboards, and a roadmap for enterprise adoption.
 
 ## Goals
 - Achieve unified telemetry across metrics, logs, traces, and events
@@ -14,3 +14,4 @@ Welcome to the Observability Architect Strategy repository. This repo outlines a
 - Correlation via trace IDs, enriched logs, and entity tagging
 
 Explore the folders below for implementation details.
+
